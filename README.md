@@ -5,7 +5,7 @@ OGPとTwitterカード(Summary Card)を追加する.
 
 
 ## インストール
-この extensionは [Extension:PageImages \- MediaWiki](https://www.mediawiki.org/wiki/Extension:PageImages)、* [Extension:TextExtracts \- MediaWiki](https://www.mediawiki.org/wiki/Extension:TextExtracts)に依存しています
+この extensionは [Extension:PageImages \- MediaWiki](https://www.mediawiki.org/wiki/Extension:PageImages)、[Extension:TextExtracts \- MediaWiki](https://www.mediawiki.org/wiki/Extension:TextExtracts)に依存しています
 
 (This extension has a hard dependency on Extension:TextExtracts and Extension:PageImages. )
 
