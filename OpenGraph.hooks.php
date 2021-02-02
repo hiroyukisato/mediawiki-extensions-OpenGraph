@@ -95,7 +95,7 @@ class OpenGraph{
         $api = new ApiMain( new FauxRequest( $request ) );
         //API実行
         $api->execute();
-        $data = $api->getResultData();
+        $data = $api->getResult()->getResultData();
         if ( isset( $data['query']['pages'][$page_id]) ) {
             return $data['query']['pages'][$page_id];
         }
