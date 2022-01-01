@@ -6,7 +6,7 @@ Please note: This repository is currently unmaintained.
 
 * [Extension:OpenGraphMeta \- MediaWiki](https://www.mediawiki.org/wiki/Extension:OpenGraphMeta)
 * [Extension:TwitterCards \- MediaWiki](https://www.mediawiki.org/wiki/Extension:TwitterCards)
-* [harugon/OpenGraph: MediaWiki にtwitterカードを追加](https://github.com/harugon/OpenGraph
+* [harugon/OpenGraph: MediaWiki にtwitterカードを追加](https://github.com/harugon/OpenGraph)
 
 
 ## 概要
