@@ -1,4 +1,14 @@
 # OpenGraph
+
+Please note: This repository is currently unmaintained.
+
+## Maintained:
+
+* [Extension:OpenGraphMeta \- MediaWiki](https://www.mediawiki.org/wiki/Extension:OpenGraphMeta)
+* [Extension:TwitterCards \- MediaWiki](https://www.mediawiki.org/wiki/Extension:TwitterCards)
+* [harugon/OpenGraph: MediaWiki にtwitterカードを追加](https://github.com/harugon/OpenGraph
+
+
 ## 概要
 
 OGPとTwitterカード(Summary Card)を追加する.
